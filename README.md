@@ -1,5 +1,5 @@
   🦖 Halu!!! I'm **Ian Gumz** 👋 <br/>
-  💻 2nd-Year **Computer Science** Student @ *University of Saint Louis* <br/>
+  💻 2nd-Year **Computer Science** Student @ [*University of Saint Louis*](https://usl.edu.ph/) <br/>
   🚀 Aspiring **Full-Stack Developer** | Future **Cybersecurity Specialist** 🧑‍💻🔐 <br/><br/>
   
   ⚙️ **Beside coding**, I also love to: <br/>
@@ -31,18 +31,15 @@
   # 📊 GitHub Stats:
   
   <div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=Gumzverse&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  
-  ![](https://nirzak-streak-stats.vercel.app/?user=Gumzverse&theme=dracula&hide_border=false)<br/>
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gumzverse&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
-  </div>
-  
-  ---
-  
-  *****Random Quote*****
+    
+![](https://github-readme-stats.vercel.app/api?username=Gumzverse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gumzverse&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gumzverse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+---
+
+**Random Quote**
   
   <div align="center">
   
@@ -51,11 +48,4 @@
   </div>
   
   ---
-  
-  <div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=Gumzverse&icon=1&color=8)](https://visitcount.itsvg.in)
-  
-  </div>
-  
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
