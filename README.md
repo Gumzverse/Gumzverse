@@ -1,51 +1,87 @@
-  🦖 Halu!!! I'm **Ian Gumz** 👋 <br/>
-  💻 2nd-Year **Computer Science** Student @ [*University of Saint Louis*](https://usl.edu.ph/) <br/>
-  🚀 Aspiring **Full-Stack Developer** | Future **Cybersecurity Specialist** 🧑‍💻🔐 <br/><br/>
-  
-  ⚙️ **Beside coding**, I also love to: <br/>
-   • Do **commissioned drawings** & **digital art** 🖌️ <br/>
-   • **Fly planes** ✈️🛫 <br/>
-   • **Trade** — stocks 📈, crypto 💰, forex 💹 <br/>
-   • and more things that keep life exciting! 🌟 <br/><br/>
-  
-  🌐 Check me out here 👉 [**Instagram**](https://www.instagram.com/am_nainai/?next=https%3A%2F%2Fwww.instagram.com%2Freels%2FDO8ljqqEShC%2F%3F__coig_login%3D1) <br/><br/>
-  
-  ---
-  
-  # 💻 Tech Stack:
-  
-  <div align="center">
-  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!-- 🌟 Header -->
+<div align="center">
+  <h1>🦖 Halu!!! I'm <strong>Ian Gumz</strong> 👋</h1>
+  <h2>✨ Welcome to <strong>Gumz Universe</strong> ✨</h2>
+</div>
 
+<br>
+
+<!-- 🌟 Row 1 — Text Left, Image Right -->
+<div style="overflow: auto; margin-bottom: 25px;">
+  <div style="float: left; width: 60%;">
+    💻 2nd-Year <strong>Computer Science</strong> Student @ 
+    <a href="https://usl.edu.ph/">University of Saint Louis</a><br/>
+    🚀 Aspiring <strong>Full-Stack Developer</strong>
   </div>
-  
-  ---
-  
-  # 📊 GitHub Stats:
-  
-  <div align="center">
-    
-![](https://github-readme-stats.vercel.app/api?username=Gumzverse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gumzverse&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gumzverse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+  <div style="float: right; width: 35%;">
+    <img 
+      src="https://github.com/user-attachments/assets/5fda8c69-97fb-4385-9428-f8182058ac54"
+      width="250" height="250"
+      alt="Main Image"
+    />
+  </div>
+</div>
+
+<!-- 🌟 Row 2 — Image Left, Text Right -->
+
+<div style="display:inline-block; vertical-align:top; width:260px; margin-right:20px;">
+  <img 
+    src="https://github.com/user-attachments/assets/600d71bc-09c2-4929-8314-610bc5a9ae30"
+    alt="Dino-removebg-preview"
+    width="250"
+    height="250"
+    style="border-radius:10px;"
+  />
+</div>
+
+<div style="display:inline-block; vertical-align:top; width:60%; text-align:justify;">
+  ⚙️ <strong>Beside coding</strong>, I enjoy a wide variety of passions that keep life fun and exciting. 
+  I love doing <strong>commissioned drawings</strong> and creating <strong>digital art</strong> 🖌️. 
+  I’m also fascinated by aviation and enjoy <strong>flying planes</strong> ✈️🛫. 
+  On top of that, I’m active in <strong>trading</strong> — from stocks 📈 and crypto 💰 to forex 💹. 
+  And of course, I’m always exploring new hobbies and experiences that make life even more thrilling! 🌟
+</div>
+
+<!-- 🌐 Socials -->
+<div align="center">
+  🌐 Check me out here 👉  
+  <a href="https://www.instagram.com/am_nainai/">Instagram</a>
 </div>
 
 ---
 
-**Random Quote**
-  
-  <div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-  
-  </div>
-  
-  ---
+# 💻 Technologies
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Gumzverse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Gumzverse&theme=ayu-mirage&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gumzverse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+# ✨ Random Quote
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+</div>
+
+---
