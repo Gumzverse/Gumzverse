@@ -4,44 +4,51 @@
   <h2>✨ Welcome to <strong>Gumz Universe</strong> ✨</h2>
 </div>
 
-<br>
-
-<!-- 🌟 Row 1 — Text Left, Image Right -->
-<div style="overflow: auto; margin-bottom: 25px;">
-  <div style="float: left; width: 60%;">
-    💻 2nd-Year <strong>Computer Science</strong> Student @ 
-    <a href="https://usl.edu.ph/">University of Saint Louis</a><br/>
+<table style="border: 0; width: 100%;">
+<tr>
+  <!-- Left Text Column -->
+  <td style="vertical-align: top; padding-right: 20px; max-width: 60%; text-align: justify; line-height: 1.5; font-family: inherit;">
+    💻 2nd-Year <strong>Computer Science</strong> Student @ <a href="https://usl.edu.ph/">University of Saint Louis</a>
     🚀 Aspiring <strong>Full-Stack Developer</strong>
-  </div>
+    🌱 Learning React, Node.js, and Python
+    🎯 Passionate about Web Development & AI
+  </td>
 
-  <div style="float: right; width: 35%;">
-    <img 
-      src="https://github.com/user-attachments/assets/5fda8c69-97fb-4385-9428-f8182058ac54"
-      width="250" height="250"
-      alt="Main Image"
-    />
-  </div>
-</div>
+  <!-- Right Image Column -->
+  <td style="vertical-align: top; text-align: center; width: 40%;">
+    <img src="https://github.com/user-attachments/assets/511a607d-d6ea-488a-88c8-323eccde0fc9" 
+         width="250" 
+         alt="Profile Image" 
+         style="border-radius: 12px;" />
+  </td>
+</tr>
+</table>
 
-<!-- 🌟 Row 2 — Image Left, Text Right -->
 
-<div style="display:inline-block; vertical-align:top; width:260px; margin-right:20px;">
-  <img 
-    src="https://github.com/user-attachments/assets/600d71bc-09c2-4929-8314-610bc5a9ae30"
-    alt="Dino-removebg-preview"
-    width="250"
-    height="250"
-    style="border-radius:10px;"
-  />
-</div>
+<table style="border: 0; width: 100%;">
+<tr>
+  <!-- Left Image Column -->
+  <td style="vertical-align: top; text-align: center; width: 40%;">
+    <img src="https://github.com/user-attachments/assets/d161672b-4fb3-4c34-8b5b-14944f744f18" 
+         width="250" 
+         alt="Dino Image" 
+         style="border-radius: 12px;" />
+  </td>
 
-<div style="display:inline-block; vertical-align:top; width:60%; text-align:justify;">
-  ⚙️ <strong>Beside coding</strong>, I enjoy a wide variety of passions that keep life fun and exciting. 
-  I love doing <strong>commissioned drawings</strong> and creating <strong>digital art</strong> 🖌️. 
-  I’m also fascinated by aviation and enjoy <strong>flying planes</strong> ✈️🛫. 
-  On top of that, I’m active in <strong>trading</strong> — from stocks 📈 and crypto 💰 to forex 💹. 
-  And of course, I’m always exploring new hobbies and experiences that make life even more thrilling! 🌟
-</div>
+  <!-- Right Text Column -->
+  <td style="vertical-align: top; padding-left: 20px; max-width: 60%; text-align: justify; line-height: 1.5; font-family: inherit;">
+    ⚙️ <strong>Beside coding</strong>, I enjoy a wide variety of passions that keep life fun and exciting.<br>
+    I love doing <strong>commissioned drawings</strong> and creating <strong>digital art</strong> 🖌️.<br>
+    I’m also fascinated by aviation and enjoy <strong>flying planes</strong> ✈️🛫.<br>
+    On top of that, I’m active in <strong>trading</strong> — from stocks 📈 and crypto 💰 to forex 💹.<br>
+    And of course, I’m always exploring new hobbies and experiences that make life even more thrilling! 🌟
+  </td>
+</tr>
+</table>
+
+
+
+
 
 <!-- 🌐 Socials -->
 <div align="center">
@@ -68,9 +75,7 @@
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Gumzverse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=Gumzverse&theme=ayu-mirage&hide_border=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gumzverse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
