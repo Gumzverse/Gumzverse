@@ -1,7 +1,7 @@
 <!-- 🌟 Header -->
 <div align="center">
-  <h1>🦖 Halu!!! I'm <strong>Ian Gumz</strong> 👋</h1>
-  <h2>✨ Welcome to <strong>Gumz Universe</strong> ✨</h2>
+  <h4>🦖 Halu!!! I'm <strong>Ian Gumz</strong> 👋</h4>
+  <h1>✨ Welcome to <strong>Gumz Universe</strong> ✨</h1>
 </div>
 
 <table style="border: 0; width: 100%;">
@@ -9,9 +9,8 @@
   <!-- Left Text Column -->
   <td style="vertical-align: top; padding-right: 20px; max-width: 60%; text-align: justify; line-height: 1.5; font-family: inherit;">
     💻 2nd-Year <strong>Computer Science</strong> Student @ <a href="https://usl.edu.ph/">University of Saint Louis</a>
-    🚀 Aspiring <strong>Full-Stack Developer</strong>
-    🌱 Learning React, Node.js, and Python
-    🎯 Passionate about Web Development & AI
+    🚀 Aspiring <strong>Full-Stack Developer.</strong><br>
+    🎯 Passionate about Web Development, Game Dev & AI
   </td>
 
   <!-- Right Image Column -->
@@ -74,18 +73,9 @@
 # 📊 GitHub Stats
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Gumzverse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Gumzverse&theme=ayu-mirage&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gumzverse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-# ✨ Random Quote
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Gumzverse&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Gumzverse&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gumzverse&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
