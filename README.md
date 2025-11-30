@@ -1,7 +1,7 @@
 <!-- 🌟 Header -->
 <div align="center">
-  <h4>🦖 Halu!!! I'm <strong>Ian Gumz</strong> 👋</h4>
-  <h1>✨ Welcome to <strong>Gumz Universe</strong> ✨</h1>
+  <h4> Halu!!! I'm <strong>Ian Gumz</strong> </h4>
+  <h1> Welcome to <strong>Gumz Universe</strong> </h1>
 </div>
 
 <table style="border: 0; width: 100%;">
@@ -37,10 +37,10 @@
   <!-- Right Text Column -->
   <td style="vertical-align: top; padding-left: 20px; max-width: 60%; text-align: justify; line-height: 1.5; font-family: inherit;">
     ⚙️ <strong>Beside coding</strong>, I enjoy a wide variety of passions that keep life fun and exciting.<br>
-    I love doing <strong>commissioned drawings</strong> and creating <strong>digital art</strong> 🖌️.<br>
-    I’m also fascinated by aviation and enjoy <strong>flying planes</strong> ✈️🛫.<br>
+    🖌️I love doing <strong>commissioned drawings</strong> and creating <strong>digital art</strong> .<br>
+   ✈️🛫 I’m also fascinated by aviation and enjoy <strong>flying planes</strong> .<br>
     On top of that, I’m active in <strong>trading</strong> — from stocks 📈 and crypto 💰 to forex 💹.<br>
-    And of course, I’m always exploring new hobbies and experiences that make life even more thrilling! 🌟
+    And of course, I’m always exploring new hobbies and experiences that make life even more thrilling! 
   </td>
 </tr>
 </table>
@@ -74,7 +74,7 @@
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Gumzverse&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Gumzverse&theme=dracula&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gumzverse&theme=dracula&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gumzverse&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
