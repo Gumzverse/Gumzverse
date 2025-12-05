@@ -10,7 +10,7 @@
   <td style="vertical-align: top; padding-right: 20px; max-width: 60%; text-align: justify; line-height: 1.5; font-family: inherit;">
     💻 2nd-Year <strong>Computer Science</strong> Student @ <a href="https://usl.edu.ph/">University of Saint Louis</a>
     🚀 Aspiring <strong>Full-Stack Developer.</strong><br>
-    🎯 Passionate about Web Development, Game Dev & AI
+    🎯 Passionate about Web Development, Game Dev & AI.
   </td>
 
   <!-- Right Image Column -->
