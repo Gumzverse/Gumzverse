@@ -38,7 +38,7 @@
   <td style="vertical-align: top; padding-left: 20px; max-width: 60%; text-align: justify; line-height: 1.5; font-family: inherit;">
     ⚙️ <strong>Beside coding</strong>, I enjoy a wide variety of passions that keep life fun and exciting.<br>
     🖌️I love doing <strong>commissioned drawings</strong> and creating <strong>digital art</strong> .<br>
-   ✈️🛫 I’m also fascinated by aviation and enjoy <strong>flying planes</strong> .<br>
+   ✈️ I’m also fascinated by aviation and enjoy <strong>flying planes</strong> .<br>
     On top of that, I’m active in <strong>trading</strong> — from stocks 📈 and crypto 💰 to forex 💹.<br>
     And of course, I’m always exploring new hobbies and experiences that make life even more thrilling! 
   </td>
